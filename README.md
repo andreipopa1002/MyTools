@@ -41,5 +41,7 @@ If you are using an existing Terminal session, don’t forget to make the change
 - KSImageNamed
 - OMColorSense
 - VVDocumenter-Xcode
-- XCommentWrap
+- XCommentWrap 
+
 # 6. MOGenerator
+
